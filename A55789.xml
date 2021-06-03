@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paralell between the late troubles in Scotland and the present troubles in England written by a private gentleman.</title>
+            <author>Private gentleman.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55789</idno><idno type="EEBO-CITATION">12252407</idno>
+  <idno type="VID">57167</idno>
+  <idno type="EEBO-PROQUEST">2240961039</idno>
+  
+            <idno type="STC">Wing P336A</idno>
+            <idno type="STC">ESTC R31751</idno>
+            <idno type="OCLC">12252407</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57167)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1510:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paralell between the late troubles in Scotland and the present troubles in England written by a private gentleman.</title>
+                  <author>Private gentleman.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.C.</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: Print showthrough with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57167:1"/>
+            <pb facs="tcp:57167:1"/>
+            <p>A PARALELL BETWEEN THE LATE TROVBLES IN SCOTLAND, AND THE PRESENT TROVBLES IN <hi>ENGLAND.</hi>
+            </p>
+            <p>Written by a private Gentleman.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. C.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:57167:2"/>
+            <pb n="3" facs="tcp:57167:2"/>
+            <head>A PARALELL BETWEENE THE LATE TROVBLES IN <hi>SCOTLAND,</hi> AND the present troubles in <hi>England,</hi> written by a private Gentleman.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath beene alwayes held a rule, or maxime, among all Nations, and Countries, to make the defence of Religion the chiefe ground or cause of their warres, sometimes for meere politique ends and by respect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ sometimes to plant religion where it is not, and sometimes to regulate it where it is; Amongst these three, the last seemes most dangerous, because it seldome happens but vnder the ter<g ref="char:EOLhyphen"/>ritories of one and the same Prince, and so produceth the miserable effects of Civill Warres.</p>
+            <p>But to come to my present purpose, wherein I intend briefly and com<g ref="char:EOLhyphen"/>paratively to discourse of the late troubles that have happened both in <hi>Scotland,</hi> and <hi>England.</hi>
+            </p>
+            <p>And because my Needle hath not beene touch'd (being the first that hath written upon this subject) if I vary in the Compasse, or meete with a Rocke, I shall expect some favour, although I will not sue for any speciall pardon, as not worthy of it, for he that followes himselfe, followeth the worst Master that is.</p>
+            <p>The cause of those great troubles in <hi>Scotland,</hi> was the Innovation of Religion, and violation of the ancient Lawes and Statutes of the King<g ref="char:EOLhyphen"/>dome
+<pb n="4" facs="tcp:57167:3"/> as sufficiently appeared by their severall petitions and declarati<g ref="char:EOLhyphen"/>ons. The chiefe Actors, plotters, and contrivers of those distractions and distempers were the Prelates, Bishops, Popish affected Clergie, and Papists joyning themselves with a malignant party, ill affected to the true Protestant Religion, which had a wicked and malitious intent and purpose to inthrall and bring into bondage and slavish subjection, both the Soules, Persons, and Estates of three Kingdomes at once. And by making vse of the great favour, power, and authoritie of the Archbishop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> the Clergie began to sayle after a <hi>Cynosure,</hi> which was elivated to the thirty six degree, and followed the example of <hi>Thomas Becket</hi> Archbishop of <hi>Canterbury,</hi> in the time of <hi>Hen.</hi> 2. who forswore himselfe (by denying the power of the King) to inlarge the power of the Pope, and to bring the Cannon Law into this Land. In the passage whereof <hi>Hen.</hi> 2. playd <hi>Adreftus</hi> part, and stabbed himselfe.</p>
+            <p>In <hi>England,</hi> as in <hi>Scotland</hi> our grievances chiefly consist of two kinds, either such as concerne the Innovation of our Religion, or such as con<g ref="char:EOLhyphen"/>cerne our Lawes and Liberties, as hath likewise often beene declared, and set forth by many petitions and declarations.</p>
+            <p>The fountaine from whence these evils have sprung, and so conse<g ref="char:EOLhyphen"/>quently, our present distractions hath by too much experience beene found to arise from those Incendiaries of mischiefe, the Prelats, Popish Bishops, and Papists.</p>
+            <p>To stirre up those distempers in <hi>Scotland,</hi> the Prelats joyne with Papists (who are neuer wanting to use there best skill and utmost power to stirre up warres and division betweene kingdomes,) and finding the Archbishop of <hi>Canter<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urie</hi> the onely Instrument to act the plot, he being the Darling of times (as its said of <hi>Mounford</hi> in the time of <hi>Hen.</hi> 3.) first they labour to advance his greatnesse comperable to that of <hi>Anselme</hi> Archbishop of <hi>Canterbury, tempore. Ed.</hi> 1. which tooke on him to be equall with the King, saying in one of his Epistles that the Plough of the holy Church was drawne by two Oxen of equall strength and beauty, the King and himselfe.</p>
+            <p>The Archbishop being gotten to this hight, the rest of the Prelats and Clergie, want not Ambition to climbe after him, their Canons and de<g ref="char:EOLhyphen"/>crees must be of that force and authority, that none dare to dispute on the Lawfulnesse of them like, the Cannons of that learned Synod in the Raigne of <hi>Richard</hi> 2. when <hi>Thomas Arundell</hi> was Archbishop of <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> where they decreed that none should dispute upon the Articles de<g ref="char:EOLhyphen"/>termined in the Church, nor should doubt the authority of those decrees, the offendors to the contrary should be pronounced Heretickes. Such
+<pb n="5" facs="tcp:57167:3"/> were the miseries that began to overtake us, by the potent greatnes of these aspiring spirits, that they will not onely be content with that power which <hi>Anselme</hi> was so puft up with that he boasted of it; to be of equall authority, with the King, in the Church▪ government, but they will be above him, the King must commit the whole sway of all Ecclesiasticall government into their hands; nay that will not serve their turnes (which was to much) but they incroach into temporall jurisdiction also▪ But as <hi>Swydas</hi> saith, for Priests to be temperall Iudges is to knit that which will never be twisted, and for a divine to medle in seculer affaires, is as if a bird in the Ayre should with the Mould<g ref="char:EOLhyphen"/>warpworke in the earth.</p>
+            <p>To season this lumpe of matter, every Kingdome hath many distinct and particuler Lawes and Customes, after a settled gouernment, not before, as a batch of bread consists of many distinct loafes, after the distinction which before is conteined vndistinguished under one Lump. A man consists of many distinct members, which at the first conception was not distinct.</p>
+            <p>In <hi>Scotland,</hi> and likewise in <hi>England</hi> before the settling of a Civill government, their Lawes were not distinct, both participating of that generall Law of humaine pollicy, or rather barberous customes were onely gained by the dime light or knowledge of heathenish understan<g ref="char:EOLhyphen"/>ding; since the dividing of these two Isles into Kingdomes, their Lawes have beene distinct which were not so before.</p>
+            <p>But least by treating of the Lawes of these two Kingdomes, I should wade too deepe, and drowne my selfe in a streame I never came at, I will returne againe to my present purpose, and give a short view of the mi<g ref="char:EOLhyphen"/>serable effects that have ensued by the Counsels and endeavours of these croaking frogs, or rather Spiders of the Common wealth, that by con<g ref="char:EOLhyphen"/>tinuall issuing forth their deadly poison, have crackt the <hi>Venus</hi> glasse of peace and tranquillity.</p>
+            <p>When <hi>Scotland</hi> first perceived their Religion betrayed, their Lawes violated, and their Liberties inthralled, and that these Incendiaries (like those favorites to <hi>Hen.</hi> 3. which were afterwards banished for it) had in<g ref="char:EOLhyphen"/>sinuated so farre with his Majesty, that their Soveraignes eare was stop<g ref="char:EOLhyphen"/>ped from hearing their just complaints, they openly declared their grie<g ref="char:EOLhyphen"/>vances to the world, and desired Iustice against the infringers of their Peace.</p>
+            <p>Now their enemies malice against them is more enraged, they per<g ref="char:EOLhyphen"/>ceive their wicked ends were not onely like to bee frustrate, but their lives and fortunes indangered, they begin to strengthen their party, and
+<pb n="6" facs="tcp:57167:4"/> turne their Invective Counsells to advise his Majesty, that their petitions are scandalous, their Declarations and behaviour rebellious; and so labour to force by the terror of an Army, that which pollicy and threats could not accomplish. And so like <hi>Guido, Godfrey,</hi> and their followers, be<g ref="char:EOLhyphen"/>gin<note place="margin">Temp. <hi>H. 3.</hi>
+               </note> to act the part of their lawlesse rage, by seeking utterly to destroy all those that withstood their wicked enterprises, and by Projects and many heavy taxes oppressing, and in a tyranicall manner keeping this Kingdome in slavish subjection, intending hereby to cut, off and over<g ref="char:EOLhyphen"/>throw two flourishing Kingdomes at once.</p>
+            <p>And although at this instant there were no present Levies of Armes by the malignant party, openly intended against <hi>England,</hi> yet it plain<g ref="char:EOLhyphen"/>ly appeared that by endeavouring to ingage the two nations in blood, the designe against <hi>England</hi> was as great (if not greater) then that a<g ref="char:EOLhyphen"/>gainst <hi>Scotland.</hi>
+            </p>
+            <p>I shall not crush ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my notes in this behalfe, in any new divisio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the portion I shall allowe, will not be large, therefore in the next place I shall onely give a touch, that when things were brought to this head, the Iesuits and Papists (which are alwayes thirsty after bloud) now plot and contrive the forwarding of those warres, as the onely meanes to promote and advance the Catholike cause. And per<g ref="char:EOLhyphen"/>ceiving that the want of money, was likely to prove a great hinderance to that designe, they begin to make great proffers, hereby they onely will be deemed his Majesties best subjects, and as if the taxes under which the Protestants groaned were to light a burthen for them, they will lay great taxes upon themselves, a servant that hath not above 40. shilings <hi>Per annum,</hi> must give five towards the promotion of this cause.</p>
+            <p>And that the neere vnion and correspondency betweene the Prelats, and them, might be duly observed, the Clergie goe hand in hand with them, in this large contribution: and last of all, to shew they wanted not affection to the Catholike cause they grant large subsidies in their Synod under the name and Collour of an Ayde. And no doubt such was their zeale (or rather their malice) that to have effected this worke they would have Imitated their predecessors in the time of <hi>Hen.</hi> 2. which sould their Challices to advance their owne ends.</p>
+            <p>These persons being now in the hight of their glory, might justly have most cause to question their strength. Christall that fairely glistereth doth quickly breake. And as the assent of vsurped royalty is slippery; so the top is shaking and the fall great.</p>
+            <p>All the strength and pollicy of this malignant party, not being able to defend them from suddaine and most eminent danger, two Parlia<g ref="char:EOLhyphen"/>ments
+<pb n="7" facs="tcp:57167:4"/> are forthwith summoned, one in <hi>England,</hi> and another in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> his Majestie being graciously pleased to make sweetnesse and Clemency the enterance to settle these distempered states. Now the cur<g ref="char:EOLhyphen"/>rant began to run smooth and cleere, all rough waves seeme to be past, the Sunne shines bright and cleere, the Clowds are a little disperced, and the strength of our hopes gave us almost full assurance of a happy Successe, but when these mischievous Spirits, perceived that the wise<g ref="char:EOLhyphen"/>dome and faithfull advise of the Parliament in <hi>England,</hi> carryed great Antipathy with their Counsels and endeavours, they prevaile with his Majestie to goe into <hi>Scotland,</hi> and grant their demands (thinking it easier to contend with one Parliament, then with two) and his Majesty complying with the Parliament in <hi>Scotland,</hi> gave great assurance to our thirsty hopes, that his Majestie would not be lesse▪ gracious to his, Subjcts in <hi>England.</hi>
+            </p>
+            <p>At his returne, he is received with great acclamations of joy, many profes<g ref="char:EOLhyphen"/>sons of a true desire, &amp; promises really to performe the like work in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> are made unto us and the Parliament, begins to move in its proper Orbe.</p>
+            <p>But heere me thinks my discourse wants one of the three Demensions. It is wide, and broad enough, but it wants depth, to shew the suddaine re<g ref="char:EOLhyphen"/>volution &amp; change of these things. And indeed it might seem very strange, and a thing beyond example, if we should not consider the reason, and occa<g ref="char:EOLhyphen"/>sion of summoning these Parliaments, and the rather, if we consider with what wisdome, mildnesse, temper, and Iudgement they have proceeded.</p>
+            <p>But experience teacheth us, that great actions are seldome effected without much paines, and great dificulty; especially, when they meet with strong and apparent opposition, and as these Parliaments were not called out of any love or affection thereunto, but meerely by compul<g ref="char:EOLhyphen"/>sion, and constrant, to avoyd a present danger, which there was no o<g ref="char:EOLhyphen"/>ther meanes to escape; so now the malignant party perceiving that in case this Parliament, should be suffered to goe on prosperously, their former plots would not only be made frustrate, but the knot so broken, and their wings so clipt, that they should never be able to put in practise any notorious acts sutable to their desires.</p>
+            <p>Now they begin to muster up their forces a new, and endeavour not onely to destroy some members of either house, but the very essence and being, not onely of this Parliament, but of all Parliaments hereafter.</p>
+            <p>Here me thinkes, this skeyne in my hand is so twisted with the disparity betweene the effects of these two Parliaments of <hi>England,</hi> and <hi>Scotland,</hi> that I cannot without intangling winde it upon a proper bottome.</p>
+            <p>The Parliament in <hi>England,</hi> hath beene ever held the Soveraigne
+<pb n="8" facs="tcp:57167:5"/> cure to heale all distempers of the Kingdome, and the surest and safest Counsell for the Kings of this Land to follow, being <hi>Magna Concilium Regis,</hi> especia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly in case of Warre, which was the reason that <hi>Edw.</hi> 3. being much incouraged to goe with the King of <hi>France</hi> to the holy<note place="margin">Rot. Parlia<g ref="char:EOLhyphen"/>ment▪ 6. <hi>E. 3</hi>
+               </note> warres, and being advised thereunto by his Councell, refused to goe without taking aduise of his Parliament, and caused a Parliament to be summoned for that very purpose? By which Councels of Parliament many great breaches &amp; ruptures, have bin made up, and great distempers &amp; distractions settled in a very short time, but such hath bin the un-heard of opposition, that hath beene made against this Parliament, thorough the continuall multiplicity of new businesses, occasoned by the new plots and devises framed against them, by the Malignant party, that without eminent danger to the whole state and kingdome, they have not had time to punish offenders; nor meanes (his Majestie being seduced by their wicked Counsels,) to redresse greevances, having sufficient Worke to under prop and uphold the tottering fabricke of this distempered king<g ref="char:EOLhyphen"/>dome, so that herein stands the disparity betweene the affaires in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>England,</hi> that the Parliament there by reason of his Majesties grace and goodnes, in complying with them, did effect that in three moneths, which the Parliament in <hi>England</hi> hath not beene so happy to accomplish in 20▪ Moneths.</p>
+            <p>Me thinks, my notes in this place, have the vertue of a Looking-glasse to shew and represent that which is before, as well as that which is behind, In that behalfe this short discourse being fully look't upon, as in a Glasse, may shew the apparity of the causers, Agents, and effects of the troubles, both of <hi>England</hi> and <hi>Scotland</hi> to be the same, onely some few particuler persons may be changed, or removed. I shall trouble you but with one example, we may remember that the principall actor (of the Clergie) in the plotting and contriving of these troubles in their birth; was the Archbishop of <hi>Canterbury,</hi> but (according to the Propheticall speech of King <hi>Iames,</hi> he brought up a bird to picke out his owne Eyes) the Archbishop of <hi>Yorke,</hi> hath now gotten the staffe out of his hands, and acts his part more to the life: then ever he had beene able to have done himselfe. Now also great proffers are made by these Clergie, and the Papists towards the advancing of a Civill warre in <hi>England,</hi> And although this that I have spoken be sufficient for my present purpose, yet Me thinks I heare <hi>Tilbury</hi> speake. It cannot fall within the compasse of mans know<g ref="char:EOLhyphen"/>ledge to utter the malicious intents of these persons, but as <hi>Pliny</hi> sheweth, that all <hi>Homers Iliades</hi> were written in a Nut-shell, the whole matter of my discourse being perused, it may be you shall Iudge all sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll▪ and no Kernell, therefore I will not further inlarge my selfe for my mettall is molten, and my bellowes by often blowing, have let out all their breath.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57167:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
